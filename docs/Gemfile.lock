@@ -274,7 +274,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
-    uri (0.13.2)
+    uri (0.13.3)
     webrick (1.8.2)
 
 PLATFORMS
@@ -287,7 +287,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   tzinfo (~> 1.0)
   tzinfo-data
-  wdm (~> 0.1.1)
+  wdm (~> 0.2.0)
 
 BUNDLED WITH
    2.2.7
